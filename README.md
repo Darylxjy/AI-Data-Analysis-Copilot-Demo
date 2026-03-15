@@ -166,14 +166,9 @@ src/
 运行方式
 
 安装依赖：
-
 npm install
 
 启动：
-
 npm run dev
 
-配置 AI key：
 
-.env.local
->>>>>>> 8e2a925fb98c3f0ebbd1b268062f300327b63bc9
